@@ -14,6 +14,8 @@ website:
         text: Home
       - text: "Journal"
         menu: 
+          - text: "00 Testseite"
+            file: content/01_journal/00_Testseite.qmd
           - text: "01 Probability Theory"
             file: content/01_journal/01_probability.qmd
           - text: "02 Statistical Concepts"
